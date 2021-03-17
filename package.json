@@ -1,5 +1,5 @@
 {
-  "name": "iwra-ex1-solution",
+  "name": "signets",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -36,6 +36,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage-inactif": "https://cdem.github.io/iwra-ex1-solution/",
+  "homepage-inactif": "https://angelicakeys.github.io/signets/",
   "homepage-aide": "Avant de déployer sur GitHub vous devez configurer correctement la propriété homepage ci-dessus : 1) retirer le suffixe '-inactif' de l'étiquette, et 2) remplacer 'username' par le nom de votre compte GitHub et 'depot-gh' par le nom de votre dépôt GitHub dans la valeur de la propriété."
 }
